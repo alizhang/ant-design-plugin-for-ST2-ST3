@@ -1,0 +1,10 @@
+<snippet>
+	<description>Card with extra</description>
+	<tabTrigger>antcard</tabTrigger>
+	<scope>source.js</scope>
+	<content><![CDATA[
+<Card title="$1" extra={<a href="#">More</a>}>
+    <p>$2</p>
+</Card>
+]]></content>
+</snippet>

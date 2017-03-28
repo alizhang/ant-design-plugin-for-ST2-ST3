@@ -1,0 +1,10 @@
+<snippet>
+	<description>Popconfirm</description>
+	<tabTrigger>antpopconfirm</tabTrigger>
+	<scope>source.js</scope>
+	<content><![CDATA[
+<Popconfirm title="Are you sure delete this task?">
+    <a href="#">$1</a>
+</Popconfirm>
+]]></content>
+</snippet>

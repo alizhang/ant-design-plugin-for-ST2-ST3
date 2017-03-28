@@ -1,0 +1,8 @@
+{
+	"dependencies": [],
+	"sublime_text": "*",
+	"platforms": ["*"],
+	"version": "1.0.0",
+	"url": "http://zplan.net",
+	"description": "Ant Deisgn Snippets Plugin for Sublime Text 2/3"
+}

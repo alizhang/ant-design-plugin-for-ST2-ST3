@@ -1,0 +1,13 @@
+<snippet>
+	<description>Menu</description>
+	<tabTrigger>antmenu</tabTrigger>
+	<scope>source.js</scope>
+	<content><![CDATA[
+<Menu>
+    <Menu.Item>Menu</Menu.Item>
+    <SubMenu title="SubMenu">
+        <Menu.Item>SubMenuItem</Menu.Item>
+    </SubMenu>
+</Menu>
+]]></content>
+</snippet>

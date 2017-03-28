@@ -1,0 +1,8 @@
+<snippet>
+	<description>Radio</description>
+	<tabTrigger>antradio</tabTrigger>
+	<scope>source.js</scope>
+	<content><![CDATA[
+<Radio>$1</Radio>
+]]></content>
+</snippet>

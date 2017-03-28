@@ -1,0 +1,13 @@
+<snippet>
+	<description>Radio Group</description>
+	<tabTrigger>antradiogroup</tabTrigger>
+	<scope>source.js</scope>
+	<content><![CDATA[
+<RadioGroup>
+    <Radio value={1}>A</Radio>
+    <Radio value={2}>B</Radio>
+    <Radio value={3}>C</Radio>
+    <Radio value={4}>D</Radio>
+</RadioGroup>
+]]></content>
+</snippet>

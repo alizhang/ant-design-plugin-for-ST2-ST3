@@ -1,0 +1,13 @@
+<snippet>
+	<description>Row</description>
+	<tabTrigger>antrow</tabTrigger>
+	<scope>source.js</scope>
+	<content><![CDATA[
+<Row gutter={16}>
+    <Col span={6} />
+    <Col span={6} />
+    <Col span={6} />
+    <Col span={6} />
+</Row>
+]]></content>
+</snippet>

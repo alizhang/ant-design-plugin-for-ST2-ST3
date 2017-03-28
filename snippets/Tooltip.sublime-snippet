@@ -1,0 +1,10 @@
+<snippet>
+	<description>Tooltip</description>
+	<tabTrigger>anttooltip</tabTrigger>
+	<scope>source.js</scope>
+	<content><![CDATA[
+<Tooltip title="$1">
+    <span>$2</span>
+</Tooltip>
+]]></content>
+</snippet>

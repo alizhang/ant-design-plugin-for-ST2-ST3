@@ -1,0 +1,18 @@
+<snippet>
+	<description>Horizontal Form</description>
+	<tabTrigger>antformhorizontal</tabTrigger>
+	<scope>source.js</scope>
+	<content><![CDATA[
+<Form layout="horizontal">
+    <FormItem label="Field A" labelCol={{ span: 4 }} wrapperCol={{ span: 14 }}>
+        <Input placeholder="input placeholder" />
+    </FormItem>
+    <FormItem label="Field B" labelCol={{ span: 4 }} wrapperCol={{ span: 14 }}>
+        <Input placeholder="input placeholder" />
+    </FormItem>
+    <FormItem wrapperCol={{ span: 14, offset: 4 }}>
+        <Button type="primary" size="large">Submit</Button>
+    </FormItem>
+</Form>
+]]></content>
+</snippet>

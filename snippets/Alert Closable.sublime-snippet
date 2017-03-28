@@ -1,0 +1,12 @@
+<snippet>
+	<description>Alert Closable</description>
+	<tabTrigger>antalertx</tabTrigger>
+	<scope>source.js</scope>
+	<content><![CDATA[
+<Alert message="$1"
+    description="$2"
+    type="error"
+    closable
+/>
+]]></content>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<description>Danger Button</description>
+	<tabTrigger>antbdanger</tabTrigger>
+	<scope>source.js</scope>
+	<content><![CDATA[
+<Button type="danger">$1</Button>
+]]></content>
+</snippet>

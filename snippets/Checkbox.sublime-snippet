@@ -1,0 +1,8 @@
+<snippet>
+	<description>Checkbox</description>
+	<tabTrigger>antcheckbox</tabTrigger>
+	<scope>source.js</scope>
+	<content><![CDATA[
+<Checkbox>$1</Checkbox>
+]]></content>
+</snippet>

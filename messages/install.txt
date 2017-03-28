@@ -1,0 +1,14 @@
+============================================================
+Thank you for installing Ant Design Snippets
+============================================================
+@黑爷
+------------------------------------------------------------
+
+Ant Design snippets is a selection of snippets
+that will greatly improve your workflow.
+
+This package is compatible with both Sublime
+Text versions 2 & 3.
+
+Documentation, examples & issue filing can be found here:
+http://zplan.net

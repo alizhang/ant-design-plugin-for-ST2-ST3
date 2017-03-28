@@ -1,0 +1,8 @@
+<snippet>
+	<description>Message</description>
+	<tabTrigger>antmsg</tabTrigger>
+	<scope>source.js</scope>
+	<content><![CDATA[
+message.info('$1')
+]]></content>
+</snippet>

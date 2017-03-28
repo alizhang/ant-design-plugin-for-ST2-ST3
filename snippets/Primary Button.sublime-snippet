@@ -1,0 +1,8 @@
+<snippet>
+	<description>Primary Button</description>
+	<tabTrigger>antbp</tabTrigger>
+	<scope>source.js</scope>
+	<content><![CDATA[
+<Button type="primary">$1</Button>
+]]></content>
+</snippet>

@@ -1,0 +1,23 @@
+<snippet>
+	<description>Dropdown</description>
+	<tabTrigger>antdropdown</tabTrigger>
+	<scope>source.js</scope>
+	<content><![CDATA[
+const menu = <Menu>
+    <Menu.Item>
+        <a target="_blank" rel="noopener noreferrer" href="#">1st menu item</a>
+    </Menu.Item>
+    <Menu.Item>
+        <a target="_blank" rel="noopener noreferrer" href="#">2nd menu item</a>
+    </Menu.Item>
+    <Menu.Item>
+        <a target="_blank" rel="noopener noreferrer" href="#">3d menu item</a>
+    </Menu.Item>
+</Menu>
+<Dropdown overlay={menu}>
+    <a className="ant-dropdown-link" href="#">
+      Hover me <Icon type="down" />
+    </a>
+</Dropdown>
+]]></content>
+</snippet>

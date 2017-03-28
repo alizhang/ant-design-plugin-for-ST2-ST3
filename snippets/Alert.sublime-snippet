@@ -1,0 +1,8 @@
+<snippet>
+	<description>Alert</description>
+	<tabTrigger>antalert</tabTrigger>
+	<scope>source.js</scope>
+	<content><![CDATA[
+<Alert message="Success Text" type="success" />
+]]></content>
+</snippet>

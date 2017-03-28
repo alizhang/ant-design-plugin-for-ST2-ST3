@@ -1,0 +1,8 @@
+<snippet>
+	<description>Input</description>
+	<tabTrigger>antinput</tabTrigger>
+	<scope>source.js</scope>
+	<content><![CDATA[
+<Input placeholder="Basic usage" />
+]]></content>
+</snippet>

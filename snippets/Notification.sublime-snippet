@@ -1,0 +1,11 @@
+<snippet>
+	<description>Notification</description>
+	<tabTrigger>antnotification</tabTrigger>
+	<scope>source.js</scope>
+	<content><![CDATA[
+notification.$1({
+    message: '$2',
+    description: '$3',
+})
+]]></content>
+</snippet>

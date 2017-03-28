@@ -1,0 +1,11 @@
+<snippet>
+	<description>Input Group Compact</description>
+	<tabTrigger>antinputgroupcompact</tabTrigger>
+	<scope>source.js</scope>
+	<content><![CDATA[
+<InputGroup compact>
+    <Input style={{ width: '20%' }} defaultValue="$1" />
+    <Input style={{ width: '30%' }} defaultValue="$2" />
+</InputGroup>
+]]></content>
+</snippet>

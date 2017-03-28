@@ -1,0 +1,10 @@
+<snippet>
+	<description>Badge</description>
+	<tabTrigger>antbadge</tabTrigger>
+	<scope>source.js</scope>
+	<content><![CDATA[
+<Badge count={$1}>
+    <a href="#"/>
+</Badge>
+]]></content>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<description>Modal</description>
+	<tabTrigger>antmodal</tabTrigger>
+	<scope>source.js</scope>
+	<content><![CDATA[
+<Modal title="$1" visible>
+    <p>$2</p>
+</Modal>
+]]></content>
+</snippet>

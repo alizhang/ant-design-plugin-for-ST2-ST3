@@ -1,0 +1,11 @@
+<snippet>
+	<description>Information Modal</description>
+	<tabTrigger>antmodalinfo</tabTrigger>
+	<scope>source.js</scope>
+	<content><![CDATA[
+Modal.$1({
+    title: '$2',
+    content: '$3',
+})
+]]></content>
+</snippet>

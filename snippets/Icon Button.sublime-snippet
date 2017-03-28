@@ -1,0 +1,8 @@
+<snippet>
+	<description>Icon Button</description>
+	<tabTrigger>antbicon</tabTrigger>
+	<scope>source.js</scope>
+	<content><![CDATA[
+<Button icon="$1">$1</Button>
+]]></content>
+</snippet>

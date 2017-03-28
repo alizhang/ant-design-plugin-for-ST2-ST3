@@ -1,0 +1,15 @@
+<snippet>
+	<description>Input Group</description>
+	<tabTrigger>antinputgroup</tabTrigger>
+	<scope>source.js</scope>
+	<content><![CDATA[
+<InputGroup size="large">
+    <Col span="4">
+    <Input defaultValue="$1" />
+    </Col>
+    <Col span="8">
+    <Input defaultValue="$2" />
+    </Col>
+</InputGroup>
+]]></content>
+</snippet>

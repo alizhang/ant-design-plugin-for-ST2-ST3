@@ -1,0 +1,10 @@
+<snippet>
+	<description>Affix</description>
+	<tabTrigger>antaffix</tabTrigger>
+	<scope>source.js</scope>
+	<content><![CDATA[
+<Affix>
+    <Button type="primary">$1</Button>
+</Affix>
+]]></content>
+</snippet>

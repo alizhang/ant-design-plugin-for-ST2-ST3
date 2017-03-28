@@ -1,0 +1,8 @@
+<snippet>
+	<description>Input With addon</description>
+	<tabTrigger>antinputaddon</tabTrigger>
+	<scope>source.js</scope>
+	<content><![CDATA[
+<Input addonAfter={<Icon type="$1" />} defaultValue="$2" />
+]]></content>
+</snippet>

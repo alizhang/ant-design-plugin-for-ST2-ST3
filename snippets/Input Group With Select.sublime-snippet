@@ -1,0 +1,14 @@
+<snippet>
+	<description>Input Group With Select</description>
+	<tabTrigger>antinputselect</tabTrigger>
+	<scope>source.js</scope>
+	<content><![CDATA[
+<InputGroup compact>
+    <Select defaultValue="$1">
+        <Option value="$1">$1</Option>
+        <Option value="$2">$2</Option>
+      </Select>
+    <Input style={{ width: '50%' }} defaultValue="$3" />
+</InputGroup>
+]]></content>
+</snippet>

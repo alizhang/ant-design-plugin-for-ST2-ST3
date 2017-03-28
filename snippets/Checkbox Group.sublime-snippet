@@ -1,0 +1,13 @@
+<snippet>
+	<description>Checkbox Group</description>
+	<tabTrigger>antcheckboxgroup</tabTrigger>
+	<scope>source.js</scope>
+	<content><![CDATA[
+const optionsWithDisabled = [
+  { label: 'Apple', value: 'Apple' },
+  { label: 'Pear', value: 'Pear' },
+  { label: 'Orange', value: 'Orange', disabled: false },
+]
+<CheckboxGroup options={optionsWithDisabled} disabled defaultValue={['Apple']}/>
+]]></content>
+</snippet>

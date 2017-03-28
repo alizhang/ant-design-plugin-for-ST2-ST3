@@ -1,0 +1,11 @@
+<snippet>
+	<description>Basic Button Group</description>
+	<tabTrigger>antbgroup</tabTrigger>
+	<scope>source.js</scope>
+	<content><![CDATA[
+<ButtonGroup>
+    <Button>$1</Button>
+    <Button type="primary">$2</Button>
+</ButtonGroup>
+]]></content>
+</snippet>

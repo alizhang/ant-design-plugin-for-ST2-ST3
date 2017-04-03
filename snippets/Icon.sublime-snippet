@@ -3,6 +3,7 @@
 	<tabTrigger>anticon</tabTrigger>
 	<scope>source.js</scope>
 	<content><![CDATA[
-"<Icon type="$1" />"
+<Icon type="$1" />
 ]]></content>
 </snippet>
+
